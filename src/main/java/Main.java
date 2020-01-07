@@ -8,5 +8,7 @@ public class Main {
 
         Visitor alice = new Visitor();
         alice.save();
+
+        alice.load("Alice Cooper");
     }
 }
