@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66b5519-fafa-4b89-86e4-a59755819251" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/visitor_bob_marley.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -14,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Visitor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Visitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visitor_alice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/visitor_alice.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,21 +100,25 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1578401196263" />
-    <state width="603" height="175" key="GridCell.Tab.0.bottom" timestamp="1578404336342">
+    <state x="200" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1578903153838">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="603" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578404336342" />
-    <state width="603" height="175" key="GridCell.Tab.0.center" timestamp="1578404336341">
+    <state x="200" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1578903153838" />
+    <state width="604" height="175" key="GridCell.Tab.0.bottom" timestamp="1578905464668">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="603" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578404336341" />
-    <state width="603" height="175" key="GridCell.Tab.0.left" timestamp="1578404336341">
+    <state width="604" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1578905464668" />
+    <state width="604" height="175" key="GridCell.Tab.0.center" timestamp="1578905464667">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="603" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578404336341" />
-    <state width="603" height="175" key="GridCell.Tab.0.right" timestamp="1578404336342">
+    <state width="604" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1578905464667" />
+    <state width="604" height="175" key="GridCell.Tab.0.left" timestamp="1578905464667">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="603" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578404336342" />
+    <state width="604" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1578905464667" />
+    <state width="604" height="175" key="GridCell.Tab.0.right" timestamp="1578905464667">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1578905464667" />
   </component>
 </project>

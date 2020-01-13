@@ -1,3 +1,4 @@
+import org.graalvm.compiler.lir.VirtualStackSlot;
 import sun.java2d.loops.DrawGlyphList;
 
 import java.io.File;
@@ -8,7 +9,12 @@ public class Main {
 
         Visitor alice = new Visitor();
         alice.save();
+        alice.load();
+       // alice.load("Alice Cooper");
 
-        alice.load("Alice Cooper");
+        Visitor bob = new Visitor();
+        bob.save();
+        bob.load();
+        //alice.load("Bob Marley");
     }
 }
