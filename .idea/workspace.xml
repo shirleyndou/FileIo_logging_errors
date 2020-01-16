@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66b5519-fafa-4b89-86e4-a59755819251" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/visitor_alice_cooper.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -17,8 +16,7 @@
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Visitor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Visitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/visitor_alice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/visitor_bob_marley.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/visitor_alice_cooper.txt" beforeDir="false" afterPath="$PROJECT_DIR$/visitor_alice_cooper.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,44 +120,33 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="58" width="847" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1579075979850" />
-    <state x="200" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1579075149516">
+    <state x="200" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1579161544697">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="200" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1579075149516" />
+    <state x="200" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1579161544697" />
     <state x="489" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579005520176">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="489" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579005520176" />
-    <state width="1253" height="124" key="GridCell.Tab.0.bottom" timestamp="1579080070368">
+    <state width="1253" height="217" key="GridCell.Tab.0.bottom" timestamp="1579162614808">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="124" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579080070368" />
-    <state width="1253" height="124" key="GridCell.Tab.0.center" timestamp="1579080070368">
+    <state width="1253" height="217" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579162614808" />
+    <state width="1253" height="217" key="GridCell.Tab.0.center" timestamp="1579162614808">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="124" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579080070368" />
-    <state width="1253" height="124" key="GridCell.Tab.0.left" timestamp="1579080070368">
+    <state width="1253" height="217" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579162614808" />
+    <state width="1253" height="217" key="GridCell.Tab.0.left" timestamp="1579162614807">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="124" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579080070368" />
-    <state width="1253" height="124" key="GridCell.Tab.0.right" timestamp="1579080070368">
+    <state width="1253" height="217" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579162614807" />
+    <state width="1253" height="217" key="GridCell.Tab.0.right" timestamp="1579162614808">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="124" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579080070368" />
-    <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579005767815">
+    <state width="1253" height="217" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579162614808" />
+    <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579160735931">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1299.741@67.27.1299.741" timestamp="1579005767815" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Visitor.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1299.741@67.27.1299.741" timestamp="1579160735931" />
   </component>
 </project>

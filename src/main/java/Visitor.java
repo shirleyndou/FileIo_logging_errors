@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class Visitor {
 
+    //instance variables of my class
     String FullName;
     int age;
     String dateOfVisit;
@@ -13,6 +14,7 @@ public class Visitor {
     String comments;
     String nameOfVisitorAssistance;
 
+    //constructor for the Visitor class
     public Visitor(String fullName, int age, String dateOfVisit, String timeOfVisit, String comments, String nameOfVisitorAssistance) {
         FullName = fullName;
         this.age = age;
@@ -27,6 +29,7 @@ public class Visitor {
 public void save()
 {
     try{
+        /*Creating a file and checking if it exists or was successfully created*/
         File visitor = new File("visitor_alice_cooper.txt");
         if(visitor.createNewFile())
         {
@@ -36,6 +39,7 @@ public void save()
             logger.debug("File already exists");
         }
 
+        /*Writing to file*/
         FileWriter writer = new FileWriter("visitor_alice_cooper.txt");
         writer.write("Full name: " + this.FullName + "\n");
         writer.write("Age: " + this.age + "\n");
@@ -55,8 +59,9 @@ public void save()
 public void load(String name)
 {
 
-    String Name = "visitor_" + name.replace(" ", "_").toLowerCase();
+    String Name = "visitor_" + name.replace(" ", "_").toLowerCase(); //trying to replace 'space' with '_' for the file name
     try {
+        /*Reading to file using a scanner*/
         File read1 = new File("visitor_alice_cooper.txt");
         Scanner reader1 = new Scanner(read1);
         while(reader1.hasNextLine()){
