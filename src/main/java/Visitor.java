@@ -28,25 +28,27 @@ public class Visitor {
 
 public void save()
 {
-    try{
+    try {
+
         /*Creating a file and checking if it exists or was successfully created*/
-        File visitor = new File("visitor_alice_cooper.txt");
-        if(visitor.createNewFile())
-        {
+        String Name = "visitor_" + FullName + ".txt";
+        String File_Name = Name.replace(" ", "_").toLowerCase();
+
+        File visitor = new File(File_Name);
+        if (visitor.createNewFile()) {
             logger.info("File " + visitor.getName() + " successfully created");
-        }
-        else{
+        } else {
             logger.debug("File already exists");
         }
 
         /*Writing to file*/
-        FileWriter writer = new FileWriter("visitor_alice_cooper.txt");
+        FileWriter writer = new FileWriter(File_Name);
         writer.write("Full name: " + this.FullName + "\n");
         writer.write("Age: " + this.age + "\n");
         writer.write("Date of visit: " + this.dateOfVisit + "\n");
-        writer.write("Time of visit: " + this.timeOfVisit +"\n");
+        writer.write("Time of visit: " + this.timeOfVisit + "\n");
         writer.write("Comments: " + this.comments + "\n");
-        writer.write("Name of person who assisted the visitor: " + this.nameOfVisitorAssistance +"\n");
+        writer.write("Name of person who assisted the visitor: " + this.nameOfVisitorAssistance + "\n");
         writer.close();
 
     } catch (IOException e) {
@@ -59,10 +61,12 @@ public void save()
 public void load(String name)
 {
 
-    String Name = "visitor_" + name.replace(" ", "_").toLowerCase(); //trying to replace 'space' with '_' for the file name
+    String Name = "visitor_" + FullName + ".txt";
+    String File_Name = Name.replace(" ", "_").toLowerCase(); //trying to replace 'space' with '_' for the file name
     try {
         /*Reading to file using a scanner*/
-        File read1 = new File("visitor_alice_cooper.txt");
+
+        File read1 = new File(File_Name);
         Scanner reader1 = new Scanner(read1);
         while(reader1.hasNextLine()){
             String alice_info = reader1.nextLine();
