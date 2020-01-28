@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="VisitorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-28T07:44:29" hostname="recruit-ThinkCentre-M73" time="0.048">
+  <properties/>
+  <testcase name="save()" classname="VisitorTest" time="0.048"/>
+  <system-out><![CDATA[2020-01-28 09:44:29,172 | Main: File already exists
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
