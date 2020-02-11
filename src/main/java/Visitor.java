@@ -75,7 +75,7 @@ public String load(String name)
             System.out.println(alice_info);
         }
 
-        System.out.println("-------------------------------------");
+        System.out.println("File read successfully");
 
     } catch (FileNotFoundException e) {
         logger.error("File Not found");
