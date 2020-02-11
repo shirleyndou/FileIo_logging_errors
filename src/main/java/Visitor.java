@@ -26,10 +26,11 @@ public class Visitor {
 
     private static final Logger logger = LogManager.getLogger(Main.class.getName());
 
-public void save()
+public String save()
 {
     try {
 
+        String info;
         /*Creating a file and checking if it exists or was successfully created*/
         String Name = "visitor_" + FullName + ".txt";
         String File_Name = Name.replace(" ", "_").toLowerCase();
@@ -56,9 +57,10 @@ public void save()
         e.printStackTrace();
     }
 
+    return null;
 }
 
-public void load(String name)
+public String load(String name)
 {
 
     String Name = "visitor_" + FullName + ".txt";
@@ -79,6 +81,7 @@ public void load(String name)
         logger.error("File Not found");
         e.printStackTrace();
     }
+    return Name;
 }
 
 }

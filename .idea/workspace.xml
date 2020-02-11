@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c66b5519-fafa-4b89-86e4-a59755819251" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/visitor_shirley_ndou.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/VisitorTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/VisitorTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-VisitorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-VisitorTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/VisitorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/VisitorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +85,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.VisitorTest.save">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FileIO.main" />
@@ -77,6 +99,26 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;VisitorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="VisitorTest.load" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;VisitorTest.load&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -134,8 +176,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.VisitorTest.save" />
-        <item itemvalue="Gradle.VisitorTest.saveTest" />
+        <item itemvalue="Gradle.VisitorTest.load" />
         <item itemvalue="Gradle.VisitorTest" />
+        <item itemvalue="Gradle.VisitorTest.saveTest" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -181,25 +224,29 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="489" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579005520176" />
-    <state width="1253" height="253" key="GridCell.Tab.0.bottom" timestamp="1580136014681">
+    <state width="1253" height="337" key="GridCell.Tab.0.bottom" timestamp="1581423379514">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="253" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580136014681" />
-    <state width="1253" height="253" key="GridCell.Tab.0.center" timestamp="1580136014679">
+    <state width="1253" height="337" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581423379514" />
+    <state width="1253" height="337" key="GridCell.Tab.0.center" timestamp="1581423379513">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="253" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580136014679" />
-    <state width="1253" height="253" key="GridCell.Tab.0.left" timestamp="1580136014678">
+    <state width="1253" height="337" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581423379513" />
+    <state width="1253" height="337" key="GridCell.Tab.0.left" timestamp="1581423379513">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="253" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580136014678" />
-    <state width="1253" height="253" key="GridCell.Tab.0.right" timestamp="1580136014680">
+    <state width="1253" height="337" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581423379513" />
+    <state width="1253" height="337" key="GridCell.Tab.0.right" timestamp="1581423379513">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="253" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580136014680" />
+    <state width="1253" height="337" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581423379513" />
     <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580132134495">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="457" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/67.27.1299.741@67.27.1299.741" timestamp="1580132134495" />
+    <state x="412" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog" timestamp="1581422852344">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="412" y="27" width="598" height="741" key="refactoring.ChangeSignatureDialog/67.27.1299.741@67.27.1299.741" timestamp="1581422852344" />
   </component>
 </project>
