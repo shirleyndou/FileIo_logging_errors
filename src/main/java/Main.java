@@ -12,11 +12,11 @@ public class Main {
         System.out.println("=======================================================================================================================================================");
 
         //class object
-        Visitor Bob = new Visitor("Bob", 44, "30/11/2020", "13h00", "No comments", "Miss Mops");
+        Visitor Bob = new Visitor("Bob Marley", 44, "30/11/2020", "13h00", "No comments", "Miss Mops");
         //invoking the save method
         Bob.save();
         //invoking the load method
-        Bob.load("Alice Cooper");
+        Bob.load("Bob Marley");
 
     }
 }
