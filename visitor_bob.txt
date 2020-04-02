@@ -1,0 +1,6 @@
+Full name: Bob
+Age: 44
+Date of visit: 30/11/2020
+Time of visit: 13h00
+Comments: No comments
+Name of person who assisted the visitor: Miss Mops
